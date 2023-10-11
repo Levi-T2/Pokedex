@@ -1,0 +1,21 @@
+/* BASIC STYLES HERE */
+
+.pokemon-list {
+    background-color: antiquewhite;
+    border: 3px solid black;
+    border-radius: 1%;
+    padding: 0.5rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    max-height: 87vh;
+    overflow-y: scroll;
+}
+
+.pokemon-card {
+    background-color: antiquewhite;
+    border: 3px solid black;
+    border-radius: 1%;
+    padding: 0.5rem;
+    margin: 0.2rem;
+
+}
